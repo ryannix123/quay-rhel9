@@ -1,6 +1,6 @@
 # Installing Quay Registry on RHEL 9
 
-There are times when you need an internal container registry. e.g., Air-gapped OpenShift testing. This guide provides step-by-step instructions for setting up a Red Hat Quay registry on a Red Hat Enterprise Linux (RHEL) 9 system.
+There are times when you need an internal container registry for testing. e.g., Air-gapped OpenShift pilot. This guide provides step-by-step instructions for setting up a Red Hat Quay registry on a Red Hat Enterprise Linux (RHEL) 9 system.
 
 ## Prerequisites
 
